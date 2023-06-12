@@ -1,0 +1,156 @@
+{"projects":
+[{
+    "id": "1",
+    "name": "Weather App",
+    "responsive": true,
+    "category": "javascript",
+    "img":"../public/weather-app.jpg",
+    "texnologies": [
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ],
+    "maket":"https://weather-fayozdew.netlify.app/"
+},
+{
+    "id": "2",
+    "name": "Typing Games",
+    "responsive": false,
+    "img":"../public/typing-game.jpg",
+    "texnologies": [
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ],
+    "category":"javascript",
+    "maket":"https://typing-wdf.netlify.app/"
+},{
+    "id": "3",
+    "name": "Gradient Color",
+    "responsive": true,
+    "category":"javascript",
+    "texnologies": [
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ],
+    "maket":"https://gradient-wdf.netlify.app/",
+    "img":"../public/gradient-color.jpg"
+},
+{
+    "id": "4",
+    "name": "Time Managment",
+    "responsive": false,
+    "category":"javascript",
+    "texnologies":[
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ] ,
+    "maket":"https://time-managment-wdf.netlify.app/",
+    "img":"../public/time-managment.jpg"
+},{
+    "id": "5",
+    "name": "To Do(easy)",
+    "responsive": false,
+    "category":"javascript",
+    "texnologies": [
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ] ,
+    "maket":"https://to-do-easy-wdf.netlify.app/",
+    "img":"../public/todo-easy.jpg"
+},
+{
+    "id": "6",
+    "name": "Dictionary Book",
+    "responsive": false,
+    "category":"javascript",
+    "texnologies": [
+        "HTML,",
+        "CSS,",
+        "JavaScript"
+    ],
+    "maket":"https://dictionary-book-wdf.netlify.app/",
+    "img":"../public/dictionary-book.jpg"
+},{
+    "id": "7",
+    "name": "uzbekistan regions",
+    "responsive": true,
+    "texnologies": [
+        "html",
+        "css",
+        "react"
+    ],
+    "maket":"jamashuy",
+    "code":"170/"
+},
+{
+    "id": "8",
+    "name": "uzbekistan regions",
+    "responsive": true,
+    "texnologies": [
+        "html",
+        "css",
+        "react"
+    ],
+    "maket":"jamashuy",
+    "code":"170/"
+}
+],
+"Ongoingprojects":[
+{
+            "id": "1",
+            "name": "Exspanding cards",
+            "responsive": true,
+            "img": "../public/day-1.webp",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://days-1-exspanding-page.netlify.app/",
+            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+},
+{
+            "id": "2",
+            "name": "Exspanding cards",
+            "responsive": true,
+            "img": "../public/day-1.webp",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://days-1-exspanding-page.netlify.app/",
+            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+},
+{
+            "id": "2",
+            "name": "Exspanding cards",
+            "responsive": true,
+            "img": "../public/day-1.webp",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://days-1-exspanding-page.netlify.app/",
+            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+},
+{
+            "id": "2",
+            "name": "Exspanding cards",
+            "responsive": true,
+            "img": "../public/day-1.webp",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://days-1-exspanding-page.netlify.app/",
+            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+}
+]
+}
