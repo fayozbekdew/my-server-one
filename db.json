@@ -4,7 +4,7 @@
     "name": "Weather App",
     "responsive": true,
     "category": "javascript",
-    "img":"../public/weather-app.jpg",
+    "img":"./weather-app.jpg",
     "texnologies": [
         "HTML,",
         "CSS,",
@@ -16,7 +16,7 @@
     "id": "2",
     "name": "Typing Games",
     "responsive": false,
-    "img":"../public/typing-game.jpg",
+    "img":"./typing-game.jpg",
     "texnologies": [
         "HTML,",
         "CSS,",
@@ -35,7 +35,7 @@
         "JavaScript"
     ],
     "maket":"https://gradient-wdf.netlify.app/",
-    "img":"../public/gradient-color.jpg"
+    "img":"./gradient-color.jpg"
 },
 {
     "id": "4",
@@ -48,7 +48,7 @@
         "JavaScript"
     ] ,
     "maket":"https://time-managment-wdf.netlify.app/",
-    "img":"../public/time-managment.jpg"
+    "img":"./time-managment.jpg"
 },{
     "id": "5",
     "name": "To Do(easy)",
@@ -60,7 +60,7 @@
         "JavaScript"
     ] ,
     "maket":"https://to-do-easy-wdf.netlify.app/",
-    "img":"../public/todo-easy.jpg"
+    "img":"./todo-easy.jpg"
 },
 {
     "id": "6",
@@ -73,7 +73,7 @@
         "JavaScript"
     ],
     "maket":"https://dictionary-book-wdf.netlify.app/",
-    "img":"../public/dictionary-book.jpg"
+    "img":"./dictionary-book.jpg"
 },{
     "id": "7",
     "name": "uzbekistan regions",
