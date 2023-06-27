@@ -74,37 +74,14 @@
     ],
     "maket":"https://dictionary-book-wdf.netlify.app/",
     "img":"./dictionary-book.jpg"
-},{
-    "id": "7",
-    "name": "uzbekistan regions",
-    "responsive": true,
-    "texnologies": [
-        "html",
-        "css",
-        "react"
-    ],
-    "maket":"jamashuy",
-    "code":"170/"
-},
-{
-    "id": "8",
-    "name": "uzbekistan regions",
-    "responsive": true,
-    "texnologies": [
-        "html",
-        "css",
-        "react"
-    ],
-    "maket":"jamashuy",
-    "code":"170/"
 }
 ],
 "Ongoingprojects":[
 {
             "id": "1",
-            "name": "Exspanding cards",
+            "name": "Exspanding cas",
             "responsive": true,
-            "img": "../public/day-1.webp",
+            "img": "./day-1.webp",
             "texnologies": [
                 "HTML,",
                 "CSS,",
