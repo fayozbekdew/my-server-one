@@ -92,42 +92,42 @@
 },
 {
             "id": "2",
-            "name": "Exspanding cards",
-            "responsive": true,
-            "img": "../public/day-1.webp",
+            "name": "Rotate Animation Cards",
+            "responsive": false,
+            "img": "./rotate-card-ongoing.mp4",
             "texnologies": [
                 "HTML,",
                 "CSS,",
                 "JavaScript"
             ],
-            "maket":"https://days-1-exspanding-page.netlify.app/",
-            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+            "maket":"https://rotate-card.netlify.app/",
+            "code":"https://github.com/fayozbekdew/rotate-card"
 },
 {
-            "id": "2",
-            "name": "Exspanding cards",
+            "id": "3",
+            "name": "Clock",
             "responsive": true,
-            "img": "../public/day-1.webp",
+            "img": "./clock-ongoing.mp4",
             "texnologies": [
                 "HTML,",
                 "CSS,",
                 "JavaScript"
             ],
-            "maket":"https://days-1-exspanding-page.netlify.app/",
-            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+            "maket":"https://clock-wdf.netlify.app/",
+            "code":"https://github.com/fayozbekdew/clock"
 },
 {
-            "id": "2",
-            "name": "Exspanding cards",
+            "id": "4",
+            "name": "Opacity Background",
             "responsive": true,
-            "img": "../public/day-1.webp",
+            "img": "./opacity-bg-ongoing.mp4",
             "texnologies": [
                 "HTML,",
                 "CSS,",
                 "JavaScript"
             ],
-            "maket":"https://days-1-exspanding-page.netlify.app/",
-            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+            "maket":"https://opacity-bg-wdf.netlify.app/",
+            "code":"https://github.com/fayozbekdew/day-4-opacity-bg"
 }
 ]
 }
