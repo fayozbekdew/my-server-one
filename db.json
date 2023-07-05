@@ -79,7 +79,7 @@
 "Ongoingprojects":[
 {
             "id": "1",
-            "name": "Exspanding cards",
+            "name": "Exspanding card",
             "responsive": true,
             "img": "./day-1.webp",
             "texnologies": [
@@ -128,6 +128,45 @@
             ],
             "maket":"https://opacity-bg-wdf.netlify.app/",
             "code":"https://github.com/fayozbekdew/day-4-opacity-bg"
+},
+{
+            "id": "5",
+            "name": "Progress Steps",
+            "responsive": true,
+            "img": "../public/progres-steps.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://progress-steps-wdf.netlify.app/",
+            "code":"https://github.com/fayozbekdew/day-2-progress-steps"
+},
+{
+            "id": "6",
+            "name": "Split Page",
+            "responsive": true,
+            "img": "./split-page-ongoing.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://split-page-wdf.netlify.app/",
+            "code":"https://github.com/fayozbekdew/day-6-split-page"
+},  
+{
+            "id": "7",
+            "name": "Scroll Effect",
+            "responsive": true,
+            "img": "./scroll-effect.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://superlative-babka-520706.netlify.app",
+            "code":"https://github.com/fayozbekdew/day-5-scrool-effect"
 }
 ]
 }
