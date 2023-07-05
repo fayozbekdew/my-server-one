@@ -133,7 +133,7 @@
             "id": "5",
             "name": "Progress Steps",
             "responsive": true,
-            "img": "../public/progres-steps.png",
+            "img": ".progres-steps.png",
             "texnologies": [
                 "HTML,",
                 "CSS,",
