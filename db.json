@@ -79,7 +79,7 @@
 "Ongoingprojects":[
 {
             "id": "1",
-            "name": "Exspanding cas",
+            "name": "Exspanding cards",
             "responsive": true,
             "img": "./day-1.webp",
             "texnologies": [
@@ -94,7 +94,7 @@
             "id": "2",
             "name": "Rotate Animation Cards",
             "responsive": false,
-            "img": "./rotate-card-ongoing.mp4",
+            "img": "./rotate-card-ongoing.png",
             "texnologies": [
                 "HTML,",
                 "CSS,",
@@ -107,7 +107,7 @@
             "id": "3",
             "name": "Clock",
             "responsive": true,
-            "img": "./clock-ongoing.mp4",
+            "img": "./clock-ongoing.png",
             "texnologies": [
                 "HTML,",
                 "CSS,",
@@ -120,7 +120,7 @@
             "id": "4",
             "name": "Opacity Background",
             "responsive": true,
-            "img": "./opacity-bg-ongoing.mp4",
+            "img": "./opacity-bg-ongoing.png",
             "texnologies": [
                 "HTML,",
                 "CSS,",
