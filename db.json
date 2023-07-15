@@ -74,13 +74,12 @@
     ],
     "maket":"https://dictionary-book-wdf.netlify.app/",
     "img":"./dictionary-book.jpg"
-}
-],
-"Ongoingprojects":[
+},
 {
-            "id": "1",
+            "id": "7",
             "name": "Exspanding card",
             "responsive": true,
+            "category":"component",
             "img": "./day-1.webp",
             "texnologies": [
                 "HTML,",
@@ -91,9 +90,10 @@
             "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
 },
 {
-            "id": "2",
+            "id": "8",
             "name": "Rotate Animation Cards",
             "responsive": false,
+            "category":"component",
             "img": "./rotate-card-ongoing.png",
             "texnologies": [
                 "HTML,",
@@ -104,9 +104,10 @@
             "code":"https://github.com/fayozbekdew/rotate-card"
 },
 {
-            "id": "3",
+            "id": "9",
             "name": "Clock",
             "responsive": true,
+            "category":"javascript",
             "img": "./clock-ongoing.png",
             "texnologies": [
                 "HTML,",
@@ -117,9 +118,10 @@
             "code":"https://github.com/fayozbekdew/clock"
 },
 {
-            "id": "4",
+            "id": "10",
             "name": "Opacity Background",
             "responsive": true,
+            "category":"component",
             "img": "./opacity-bg-ongoing.png",
             "texnologies": [
                 "HTML,",
@@ -130,9 +132,10 @@
             "code":"https://github.com/fayozbekdew/day-4-opacity-bg"
 },
 {
-            "id": "5",
+            "id": "11",
             "name": "Progress Steps",
             "responsive": true,
+            "category":"component",
             "img": ".progres-steps.png",
             "texnologies": [
                 "HTML,",
@@ -143,9 +146,10 @@
             "code":"https://github.com/fayozbekdew/day-2-progress-steps"
 },
 {
-            "id": "6",
+            "id": "12",
             "name": "Split Page",
             "responsive": true,
+            "category":"component",
             "img": "./split-page-ongoing.png",
             "texnologies": [
                 "HTML,",
@@ -156,9 +160,10 @@
             "code":"https://github.com/fayozbekdew/day-6-split-page"
 },  
 {
-            "id": "7",
+            "id": "13",
             "name": "Scroll Effect",
             "responsive": true,
+            "category":"component",
             "img": "./scroll-effect.png",
             "texnologies": [
                 "HTML,",
@@ -167,6 +172,32 @@
             ],
             "maket":"https://superlative-babka-520706.netlify.app",
             "code":"https://github.com/fayozbekdew/day-5-scrool-effect"
+},
+{
+            "id": "14",
+            "name": "Kinomania🎬",
+            "responsive": false,
+            "category":"javascript",
+            "img": "./kinomania-img.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://kinomania-wdf.netlify.app/"
+},
+{
+            "id": "15",
+            "name": "Piano🎹",
+            "responsive": false,
+            "category":"javascript",
+            "img": "./piano-app.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://paino-app-wdf.netlify.app/"
 }
 ]
 }
