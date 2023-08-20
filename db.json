@@ -198,6 +198,45 @@
                 "JavaScript"
             ],
             "maket":"https://paino-app-wdf.netlify.app/"
+},
+{
+            "id": "16",
+            "name": "Movie App",
+            "responsive": false,
+            "category":"javascript",
+            "img": "https://static.vecteezy.com/system/resources/previews/005/502/524/original/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electric-bulbs-frame-illustration-free-vector.jpg",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "JavaScript"
+            ],
+            "maket":"https://fullmovie-app.netlify.app/"
+},
+{
+            "id": "17",
+            "name": "MusicStore",
+            "responsive": true,
+            "category":"react",
+            "img": "https://i.pinimg.com/736x/cf/f4/8b/cff48b9f15c478ee34800dc0792b5958.jpg",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "React"
+            ],
+            "maket":"https://music-story.netlify.app/"
+},
+{
+            "id": "18",
+            "name": "Uzbekistan Regions",
+            "responsive": false,
+            "category":"react",
+            "img": "./uzbekistan_regions.png",
+            "texnologies": [
+                "HTML,",
+                "CSS,",
+                "React"
+            ],
+            "maket":"https://uzbekistan-regions.netlify.app/"
 }
 ]
 }
