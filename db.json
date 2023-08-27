@@ -1,242 +1,174 @@
-{"projects":
-[{
-    "id": "1",
-    "name": "Weather App",
-    "responsive": true,
-    "category": "javascript",
-    "img":"./weather-app.jpg",
-    "texnologies": [
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ],
-    "maket":"https://weather-fayozdew.netlify.app/"
-},
 {
-    "id": "2",
-    "name": "Typing Games",
-    "responsive": false,
-    "img":"./typing-game.jpg",
-    "texnologies": [
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ],
-    "category":"javascript",
-    "maket":"https://typing-wdf.netlify.app/"
-},{
-    "id": "3",
-    "name": "Gradient Color",
-    "responsive": true,
-    "category":"javascript",
-    "texnologies": [
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ],
-    "maket":"https://gradient-wdf.netlify.app/",
-    "img":"./gradient-color.jpg"
-},
-{
-    "id": "4",
-    "name": "Time Managment",
-    "responsive": false,
-    "category":"javascript",
-    "texnologies":[
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ] ,
-    "maket":"https://time-managment-wdf.netlify.app/",
-    "img":"./time-managment.jpg"
-},{
-    "id": "5",
-    "name": "To Do(easy)",
-    "responsive": false,
-    "category":"javascript",
-    "texnologies": [
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ] ,
-    "maket":"https://to-do-easy-wdf.netlify.app/",
-    "img":"./todo-easy.jpg"
-},
-{
-    "id": "6",
-    "name": "Dictionary Book",
-    "responsive": false,
-    "category":"javascript",
-    "texnologies": [
-        "HTML,",
-        "CSS,",
-        "JavaScript"
-    ],
-    "maket":"https://dictionary-book-wdf.netlify.app/",
-    "img":"./dictionary-book.jpg"
-},
-{
-            "id": "7",
-            "name": "Exspanding card",
-            "responsive": true,
-            "category":"component",
-            "img": "./day-1.webp",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://days-1-exspanding-page.netlify.app/",
-            "code":"https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
-},
-{
-            "id": "8",
-            "name": "Rotate Animation Cards",
-            "responsive": false,
-            "category":"component",
-            "img": "./rotate-card-ongoing.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://rotate-card.netlify.app/",
-            "code":"https://github.com/fayozbekdew/rotate-card"
-},
-{
-            "id": "9",
-            "name": "Clock",
-            "responsive": true,
-            "category":"javascript",
-            "img": "./clock-ongoing.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://clock-wdf.netlify.app/",
-            "code":"https://github.com/fayozbekdew/clock"
-},
-{
-            "id": "10",
-            "name": "Opacity Background",
-            "responsive": true,
-            "category":"component",
-            "img": "./opacity-bg-ongoing.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://opacity-bg-wdf.netlify.app/",
-            "code":"https://github.com/fayozbekdew/day-4-opacity-bg"
-},
-{
-            "id": "11",
-            "name": "Progress Steps",
-            "responsive": true,
-            "category":"component",
-            "img": ".progres-steps.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://progress-steps-wdf.netlify.app/",
-            "code":"https://github.com/fayozbekdew/day-2-progress-steps"
-},
-{
-            "id": "12",
-            "name": "Split Page",
-            "responsive": true,
-            "category":"component",
-            "img": "./split-page-ongoing.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://split-page-wdf.netlify.app/",
-            "code":"https://github.com/fayozbekdew/day-6-split-page"
-},  
-{
-            "id": "13",
-            "name": "Scroll Effect",
-            "responsive": true,
-            "category":"component",
-            "img": "./scroll-effect.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://superlative-babka-520706.netlify.app",
-            "code":"https://github.com/fayozbekdew/day-5-scrool-effect"
-},
-{
-            "id": "14",
-            "name": "Kinomania🎬",
-            "responsive": false,
-            "category":"javascript",
-            "img": "./kinomania-img.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://kinomania-wdf.netlify.app/"
-},
-{
-            "id": "15",
-            "name": "Piano🎹",
-            "responsive": false,
-            "category":"javascript",
-            "img": "./piano-app.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://paino-app-wdf.netlify.app/"
-},
-{
-            "id": "16",
-            "name": "Movie App",
-            "responsive": false,
-            "category":"javascript",
-            "img": "https://static.vecteezy.com/system/resources/previews/005/502/524/original/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electric-bulbs-frame-illustration-free-vector.jpg",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "JavaScript"
-            ],
-            "maket":"https://fullmovie-app.netlify.app/"
-},
-{
-            "id": "17",
-            "name": "MusicStore",
-            "responsive": true,
-            "category":"react",
-            "img": "https://i.pinimg.com/736x/cf/f4/8b/cff48b9f15c478ee34800dc0792b5958.jpg",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "React"
-            ],
-            "maket":"https://music-story.netlify.app/"
-},
-{
-            "id": "18",
-            "name": "Uzbekistan Regions",
-            "responsive": false,
-            "category":"react",
-            "img": "./uzbekistan_regions.png",
-            "texnologies": [
-                "HTML,",
-                "CSS,",
-                "React"
-            ],
-            "maket":"https://uzbekistan-regions.netlify.app/"
-}
-]
+  "projects": [
+    {
+      "id": "18",
+      "name": "Uzbekistan Regions",
+      "responsive": false,
+      "category": "react",
+      "img": "https://photos.app.goo.gl/JMuB5SQYWqiQSauu5",
+      "texnologies": ["HTML,", "CSS,", "React"],
+      "maket": "https://uzbekistan-regions.netlify.app/"
+    },
+    {
+      "id": "17",
+      "name": "MusicStore",
+      "responsive": true,
+      "category": "react",
+      "img": "https://i.pinimg.com/736x/cf/f4/8b/cff48b9f15c478ee34800dc0792b5958.jpg",
+      "texnologies": ["HTML,", "CSS,", "React"],
+      "maket": "https://music-story.netlify.app/"
+    },
+    {
+        "id": "16",
+        "name": "Movie App",
+        "responsive": false,
+        "category": "javascript",
+        "img": "https://static.vecteezy.com/system/resources/previews/005/502/524/original/cinema-background-concept-movie-theater-object-on-red-curtain-background-and-movie-time-with-electric-bulbs-frame-illustration-free-vector.jpg",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://fullmovie-app.netlify.app/"
+      },
+    {
+      "id": "1",
+      "name": "Weather App",
+      "responsive": true,
+      "category": "javascript",
+      "img": "./weather-app.jpg",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://weather-fayozdew.netlify.app/"
+    },
+    {
+        "id": "14",
+        "name": "Kinomania🎬",
+        "responsive": false,
+        "category": "javascript",
+        "img": "./kinomania-img.png",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://kinomania-wdf.netlify.app/"
+      },
+    {
+        "id": "6",
+        "name": "Dictionary Book",
+        "responsive": false,
+        "category": "javascript",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://dictionary-book-wdf.netlify.app/",
+        "img": "./dictionary-book.jpg"
+      },
+    {
+      "id": "2",
+      "name": "Typing Games",
+      "responsive": false,
+      "img": "./typing-game.jpg",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "category": "javascript",
+      "maket": "https://typing-wdf.netlify.app/"
+    },
+    {
+        "id": "15",
+        "name": "Piano🎹",
+        "responsive": false,
+        "category": "javascript",
+        "img": "./piano-app.png",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://paino-app-wdf.netlify.app/"
+      },
+    {
+        "id": "9",
+        "name": "Clock",
+        "responsive": true,
+        "category": "javascript",
+        "img": "./clock-ongoing.png",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://clock-wdf.netlify.app/",
+        "code": "https://github.com/fayozbekdew/clock"
+      },
+    {
+      "id": "4",
+      "name": "Time Managment",
+      "responsive": false,
+      "category": "javascript",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://time-managment-wdf.netlify.app/",
+      "img": "./time-managment.jpg"
+    },
+    {
+      "id": "5",
+      "name": "To Do(easy)",
+      "responsive": false,
+      "category": "javascript",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://to-do-easy-wdf.netlify.app/",
+      "img": "./todo-easy.jpg"
+    },
+    {
+        "id": "12",
+        "name": "Split Page",
+        "responsive": true,
+        "category": "component",
+        "img": "./split-page-ongoing.png",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://split-page-wdf.netlify.app/",
+        "code": "https://github.com/fayozbekdew/day-6-split-page"
+      },
+    {
+        "id": "3",
+        "name": "Gradient Color",
+        "responsive": true,
+        "category": "javascript",
+        "texnologies": ["HTML,", "CSS,", "JavaScript"],
+        "maket": "https://gradient-wdf.netlify.app/",
+        "img": "./gradient-color.jpg"
+      },
+    {
+      "id": "7",
+      "name": "Exspanding card",
+      "responsive": true,
+      "category": "component",
+      "img": "./day-1.webp",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://days-1-exspanding-page.netlify.app/",
+      "code": "https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
+    },
+    {
+      "id": "8",
+      "name": "Rotate Animation Cards",
+      "responsive": false,
+      "category": "component",
+      "img": "./rotate-card-ongoing.png",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://rotate-card.netlify.app/",
+      "code": "https://github.com/fayozbekdew/rotate-card"
+    },
+    
+    {
+      "id": "10",
+      "name": "Opacity Background",
+      "responsive": true,
+      "category": "component",
+      "img": "./opacity-bg-ongoing.png",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://opacity-bg-wdf.netlify.app/",
+      "code": "https://github.com/fayozbekdew/day-4-opacity-bg"
+    },
+    {
+      "id": "11",
+      "name": "Progress Steps",
+      "responsive": true,
+      "category": "component",
+      "img": ".progres-steps.png",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://progress-steps-wdf.netlify.app/",
+      "code": "https://github.com/fayozbekdew/day-2-progress-steps"
+    },
+    {
+      "id": "13",
+      "name": "Scroll Effect",
+      "responsive": true,
+      "category": "component",
+      "img": "./scroll-effect.png",
+      "texnologies": ["HTML,", "CSS,", "JavaScript"],
+      "maket": "https://superlative-babka-520706.netlify.app",
+      "code": "https://github.com/fayozbekdew/day-5-scrool-effect"
+    }
+  ]
 }
