@@ -5,7 +5,7 @@
       "name": "Uzbekistan Regions",
       "responsive": false,
       "category": "react",
-      "img": "https://photos.google.com/share/AF1QipMl48hqjEuhrVtHRHXrssZsxuA811VI5ymLW98IqIGc6-Hsdy64RxOSl1iz1mm42Q/photo/AF1QipNSg-VCcXLm69h-JFH0lR5Ea4Pj-0qu582I5Vfw?key=Y1d2eDJ5X2RtV2tvM0s0N0tGVEhrNlRYM0RIQVFR",
+      "img": "https://uzreport.news/fotobank/image/84b6fd470c9ecff50fc84880dae72a2e.jpeg",
       "texnologies": ["HTML,", "CSS,", "React"],
       "maket": "https://uzbekistan-regions.netlify.app/"
     },
@@ -36,6 +36,15 @@
       "texnologies": ["HTML,", "CSS,", "JavaScript"],
       "maket": "https://weather-fayozdew.netlify.app/"
     },
+    {
+        "id": "myteam",
+        "name": "My Team",
+        "responsive": true,
+        "category": "react",
+        "img": "https://cdn2.f-cdn.com/contestentries/1915641/52414934/6065c7e703310_thumb900.jpg",
+        "texnologies": ["HTML,", "CSS,", "React"],
+        "maket": "https://my-team-wdf.netlify.app/"
+      },
     {
         "id": "14",
         "name": "Kinomania🎬",
