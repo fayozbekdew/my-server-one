@@ -36,6 +36,15 @@
         "texnologies": ["HTML,", "CSS,", "JavaScript"],
         "maket": "https://fullmovie-app.netlify.app/"
       },
+      {
+        "id": "space",
+        "name": "Space",
+        "responsive": true,
+        "category": "react",
+        "img": "https://d.newsweek.com/en/full/2096815/astronaut-spaceman-do-spacewalk.webp?w=1600&h=900&q=88&f=c996c8bb5a1fec0ad419b2af7d5d1341",
+        "texnologies": ["HTML,", "CSS,", "React"],
+        "maket": "https://space-wdf.netlify.app/"
+      },
     {
       "id": "1",
       "name": "Weather App",
