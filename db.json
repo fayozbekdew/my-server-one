@@ -1,6 +1,24 @@
 {
   "projects": [
     {
+      "id": "tlogistic",
+      "name": "TLogistic",
+      "responsive":  true,
+      "category": "react",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPJL3MJ_2FqwLt_ku4BtZOnOLcRQs3cSLrq8hpwOlDHjnZhVdWWEMi2Pn6k9PbisqeRk&usqp=CAU",
+      "texnologies": ["HTML,", "CSS,", "React"],
+      "maket": "https://tlogistic.uz/"
+    },
+    {
+      "id": "ComfyStore",
+      "name": "Comfy Store",
+      "responsive":  true,
+      "category": "react",
+      "img": "https://comfy.sg/cdn/shop/files/comfy-furniture-recliner-sofa.webp?v=1680440931&width=320",
+      "texnologies": ["HTML,", "CSS,", "React"],
+      "maket": "https://comfy-store-app-wdf.netlify.app/"
+    },
+    {
       "id": "18",
       "name": "Uzbekistan Regions",
       "responsive": false,
