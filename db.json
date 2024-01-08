@@ -1,12 +1,30 @@
 {
   "projects": [
     {
+      "id": "exclusive",
+      "name": "Exclusive Market",
+      "responsive":  true,
+      "category": "react",
+      "img": "./ST-logo.png",
+      "texnologies": ["React","Tailwind","Swiper","State Managment"],
+      "maket": "https://sapphire-transportation.netlify.app/"
+    },
+    {
+      "id": "Sapphire Transportation",
+      "name": "Sapphire Transportation",
+      "responsive":  true,
+      "category": "react",
+      "img": "./ST-logo.png",
+      "texnologies": ["React","Tailwind"],
+      "maket": "https://sapphire-transportation.netlify.app/"
+    },
+    {
       "id": "tlogistic",
       "name": "TLogistic",
       "responsive":  true,
       "category": "react",
       "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYPJL3MJ_2FqwLt_ku4BtZOnOLcRQs3cSLrq8hpwOlDHjnZhVdWWEMi2Pn6k9PbisqeRk&usqp=CAU",
-      "texnologies": ["HTML,", "CSS,", "React"],
+      "texnologies": ["React", "i18next","Tailwind"],
       "maket": "https://tlogistic.uz/"
     },
     {
@@ -15,7 +33,7 @@
       "responsive":  true,
       "category": "react",
       "img": "https://comfy.sg/cdn/shop/files/comfy-furniture-recliner-sofa.webp?v=1680440931&width=320",
-      "texnologies": ["HTML,", "CSS,", "React"],
+      "texnologies": ["DaisyUi", "React","Redux"],
       "maket": "https://comfy-store-app-wdf.netlify.app/"
     },
     {
@@ -24,7 +42,7 @@
       "responsive": false,
       "category": "react",
       "img": "https://uzreport.news/fotobank/image/84b6fd470c9ecff50fc84880dae72a2e.jpeg",
-      "texnologies": ["HTML,", "CSS,", "React"],
+      "texnologies": [ "CSS,", "React","Swiper"],
       "maket": "https://uzbekistan-regions.netlify.app/"
     },
     {
@@ -33,7 +51,7 @@
         "responsive": true,
         "category": "react",
         "img": "https://sun9-15.userapi.com/impg/MY_IucpHji0Co9EwIdUgxDd4fj8d4sRpW_yKgA/pSRGyI6kgk0.jpg?size=807x573&quality=96&sign=c7c70a12d6c3b7b9606776414a59666d&c_uniq_tag=W3Fpge6buOjf-YaAZrTVCwhpn4it5CxyyhBFk3fD7QQ&type=album",
-        "texnologies": ["HTML,", "CSS,", "React"],
+        "texnologies": ["Tailwind", "React"],
         "maket": "https://logistic-app-beta.vercel.app/"
       },
     {
@@ -42,7 +60,7 @@
       "responsive": true,
       "category": "react",
       "img": "https://i.pinimg.com/736x/cf/f4/8b/cff48b9f15c478ee34800dc0792b5958.jpg",
-      "texnologies": ["HTML,", "CSS,", "React"],
+      "texnologies": [ "CSS,", "React"],
       "maket": "https://music-story.netlify.app/"
     },
     {
@@ -60,7 +78,7 @@
         "responsive": true,
         "category": "react",
         "img": "https://d.newsweek.com/en/full/2096815/astronaut-spaceman-do-spacewalk.webp?w=1600&h=900&q=88&f=c996c8bb5a1fec0ad419b2af7d5d1341",
-        "texnologies": ["HTML,", "CSS,", "React"],
+        "texnologies": ["CSS,", "React"],
         "maket": "https://space-wdf.netlify.app/"
       },
     {
@@ -78,7 +96,7 @@
         "responsive": true,
         "category": "react",
         "img": "https://cdn2.f-cdn.com/contestentries/1915641/52414934/6065c7e703310_thumb900.jpg",
-        "texnologies": ["HTML,", "CSS,", "React"],
+        "texnologies": [ "CSS,", "React"],
         "maket": "https://my-team-wdf.netlify.app/"
       },
     {
@@ -144,76 +162,6 @@
       "texnologies": ["HTML,", "CSS,", "JavaScript"],
       "maket": "https://to-do-easy-wdf.netlify.app/",
       "img": "./todo-easy.jpg"
-    },
-    {
-        "id": "12",
-        "name": "Split Page",
-        "responsive": true,
-        "category": "component",
-        "img": "./split-page-ongoing.png",
-        "texnologies": ["HTML,", "CSS,", "JavaScript"],
-        "maket": "https://split-page-wdf.netlify.app/",
-        "code": "https://github.com/fayozbekdew/day-6-split-page"
-      },
-    {
-        "id": "3",
-        "name": "Gradient Color",
-        "responsive": true,
-        "category": "javascript",
-        "texnologies": ["HTML,", "CSS,", "JavaScript"],
-        "maket": "https://gradient-wdf.netlify.app/",
-        "img": "./gradient-color.jpg"
-      },
-    {
-      "id": "7",
-      "name": "Exspanding card",
-      "responsive": true,
-      "category": "component",
-      "img": "./day-1.webp",
-      "texnologies": ["HTML,", "CSS,", "JavaScript"],
-      "maket": "https://days-1-exspanding-page.netlify.app/",
-      "code": "https://github.com/fayozbekdew/Days-1-Exsapnding-cards"
-    },
-    {
-      "id": "8",
-      "name": "Rotate Animation Cards",
-      "responsive": false,
-      "category": "component",
-      "img": "./rotate-card-ongoing.png",
-      "texnologies": ["HTML,", "CSS,", "JavaScript"],
-      "maket": "https://rotate-card.netlify.app/",
-      "code": "https://github.com/fayozbekdew/rotate-card"
-    },
-    
-    {
-      "id": "10",
-      "name": "Opacity Background",
-      "responsive": true,
-      "category": "component",
-      "img": "./opacity-bg-ongoing.png",
-      "texnologies": ["HTML,", "CSS,", "JavaScript"],
-      "maket": "https://opacity-bg-wdf.netlify.app/",
-      "code": "https://github.com/fayozbekdew/day-4-opacity-bg"
-    },
-    {
-      "id": "11",
-      "name": "Progress Steps",
-      "responsive": true,
-      "category": "component",
-      "img": ".progres-steps.png",
-      "texnologies": ["HTML,", "CSS,", "JavaScript"],
-      "maket": "https://progress-steps-wdf.netlify.app/",
-      "code": "https://github.com/fayozbekdew/day-2-progress-steps"
-    },
-    {
-      "id": "13",
-      "name": "Scroll Effect",
-      "responsive": true,
-      "category": "component",
-      "img": "./scroll-effect.png",
-      "texnologies": ["HTML,", "CSS,", "JavaScript"],
-      "maket": "https://superlative-babka-520706.netlify.app",
-      "code": "https://github.com/fayozbekdew/day-5-scrool-effect"
     }
   ]
 }
