@@ -5,9 +5,9 @@
       "name": "Exclusive Market",
       "responsive":  true,
       "category": "react",
-      "img": "./ST-logo.png",
+      "img": "",
       "texnologies": ["React","Tailwind","Swiper","State Managment"],
-      "maket": "https://sapphire-transportation.netlify.app/"
+      "maket": "https://excusive-market.netlify.app/"
     },
     {
       "id": "Sapphire Transportation",
