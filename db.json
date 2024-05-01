@@ -1,9 +1,27 @@
 {
   "projects": [
     {
+      "id": "CRUDTodo",
+      "name": "CRUD Todo",
+      "responsive":  true,
+      "category": "react",
+      "img": "./todo-easy.jpg",
+      "texnologies": ["React","Daisy Ui","Redux","React-hook-form"],
+      "maket": "https://crud-todo0.netlify.app/"
+    },
+    {
+      "id": "crmsofuna",
+      "name": "Sofuna CRM(ongoing)",
+      "responsive":  false,
+      "category": "react",
+      "img": "",
+      "texnologies": ["React","Tailwind","Chart.js","React-hook-form"],
+      "maket": "https://mebel-crm-sistem.vercel.app/"
+    },
+    {
       "id": "exclusive",
       "name": "Exclusive Market",
-      "responsive":  true,
+      "responsive":  false,
       "category": "react",
       "img": "",
       "texnologies": ["React","Tailwind","Swiper","State Managment"],
