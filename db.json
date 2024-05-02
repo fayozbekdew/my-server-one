@@ -1,6 +1,15 @@
 {
   "projects": [
     {
+      "id": "Crypto",
+      "name": "Crypto",
+      "responsive":  true,
+      "category": "react",
+      "img": "./crypto-site",
+      "texnologies": ["React","CSS","Redux","Chart.js", "State Managment"],
+      "maket": "https://frontend-standart-react.vercel.app/"
+    },
+    {
       "id": "CRUDTodo",
       "name": "CRUD Todo",
       "responsive":  true,
@@ -14,7 +23,7 @@
       "name": "Sofuna CRM(ongoing)",
       "responsive":  false,
       "category": "react",
-      "img": "",
+      "img": "./crm-site",
       "texnologies": ["React","Tailwind","Chart.js","React-hook-form"],
       "maket": "https://mebel-crm-sistem.vercel.app/"
     },
